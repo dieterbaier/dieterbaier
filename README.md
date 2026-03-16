@@ -70,3 +70,7 @@ href="https://www.linkedin.com/in/brdietdidi/">linkedIn</a></p></li>
 
 ***Für detailierte Informationen, wie Adresse oder persönliche
 E-Mail-Adresse, kontaktieren Sie mich einfach über mein Netzwerk***
+
+<span class="footer">Dieses README wurde aus den Inhalten des
+Repositories [Dieter Baier -
+Profile](https://github.com/dieterbaier/profile) generiert</span>
