@@ -56,6 +56,8 @@ Zudem beschäftige ich mich zunehmend mit **Sustainability in der
 Softwarearchitektur**, insbesondere mit den **Auswirkungen von
 IT-Systemen auf Energieverbrauch und Umwelt**.
 
+**Kenntnisse**
+
 **Arbeitsweise**
 
 - Verbindung von **Architekturarbeit und praktischer Entwicklung**
