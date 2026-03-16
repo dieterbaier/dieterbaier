@@ -33,6 +33,8 @@ href="https://www.linkedin.com/in/brdietdidi/">linkedIn</a></p></li>
 ***Für detailierte Informationen, wie Adresse oder persönliche
 E-Mail-Adresse, kontaktieren Sie mich einfach über mein Netzwerk***
 
+# Über mich
+
 **Profil**
 
 Seit über **30 Jahren** arbeite ich in der Softwareentwicklung mit einem
