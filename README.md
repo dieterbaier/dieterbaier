@@ -58,6 +58,74 @@ IT-Systemen auf Energieverbrauch und Umwelt**.
 
 **Kenntnisse**
 
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 75%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>Dokumentation</strong></p></td>
+<td style="text-align: left;"><ul>
+<li><p>arc42 - Confluence / Notion / docToolchain</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>Integration</strong></p></td>
+<td style="text-align: left;"><ul>
+<li><p>Apache Kafka</p></li>
+<li><p>Messaging</p></li>
+<li><p>REST / APIs</p></li>
+<li><p>BPM - Camunda</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>Entwicklung</strong></p></td>
+<td style="text-align: left;"><ul>
+<li><p>Java / Spring Boot</p></li>
+<li><p>React / Typescript</p></li>
+<li><p>REST Services</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>Software
+Architektur</strong></p></td>
+<td style="text-align: left;"><ul>
+<li><p>Domain Driven Design</p></li>
+<li><p>Clean Architecture</p></li>
+<li><p>Event Driven Architecture</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>Methoden</strong></p></td>
+<td style="text-align: left;"><ul>
+<li><p>Agile Collaboration</p></li>
+<li><p>Coaching / Training</p></li>
+<li><p>Doc as Code</p></li>
+<li><p>Clean Code</p></li>
+<li><p>Architektur Kommunikation</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>Plattform &amp;
+Auslieferung</strong></p></td>
+<td style="text-align: left;"><ul>
+<li><p>Docker / Kubernetes</p></li>
+<li><p>Helm</p></li>
+<li><p>CI/CD Pipelines (Jenkins / GitLab / GitHub)</p></li>
+<li><p>AWS / Azure</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>Branchen</strong></p></td>
+<td style="text-align: left;"><ul>
+<li><p>Banken / Versicherungen - Transport - Öffentliche
+Verwaltung</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
 **Arbeitsweise**
 
 - Verbindung von **Architekturarbeit und praktischer Entwicklung**
