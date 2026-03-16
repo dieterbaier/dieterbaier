@@ -35,6 +35,10 @@ E-Mail-Adresse, kontaktieren Sie mich einfach über mein Netzwerk***
 
 # Über mich
 
+- Deutsch (Muttersprache)
+
+- English (fluent)
+
 **Profil**
 
 Seit über **30 Jahren** arbeite ich in der Softwareentwicklung mit einem
