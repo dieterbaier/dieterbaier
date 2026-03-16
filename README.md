@@ -143,6 +143,13 @@ Ich verbinde **Architekturarbeit, praktische Entwicklung und
 verständliche Dokumentation**, um **nachhaltige und wartbare
 Softwaresysteme** zu schaffen.
 
+## Persönliches Engagement
+
+Aus **persönlichen Gründen** liegt mir das Thema **Inklusion** besonders
+am Herzen. Ich setze mich für eine Arbeitskultur ein, die Vielfalt
+fördert und Barrieren abbaut – sowohl im Berufsleben als auch darüber
+hinaus.
+
 <span class="footer">Dieses README wurde aus den Inhalten des
 Repositories [Dieter Baier -
 Profile](https://github.com/dieterbaier/profile) generiert.</span>
