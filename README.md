@@ -1,3 +1,38 @@
+# Dieter Baier
+
+**Software Architekt \| Integration, Architektur & Dokumentation**
+
+# Kontakt
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 66%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>Adresse</strong></p></td>
+<td style="text-align: left;"><p>Deutschland</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>Website</strong></p></td>
+<td style="text-align: left;"><p><a
+href="https://dieterbaier.eu">dieterbaier.eu</a></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>Netzwerk</strong></p></td>
+<td style="text-align: left;"><ul>
+<li><p><a
+href="https://www.linkedin.com/in/brdietdidi/">linkedIn</a></p></li>
+<li><p><a href="https://github.com/dieterbaier">GitHub</a></p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+***Für detailierte Informationen, wie Adresse oder persönliche
+E-Mail-Adresse, kontaktieren Sie mich einfach über mein Netzwerk***
+
 **Profil**
 
 Seit über **30 Jahren** arbeite ich in der Softwareentwicklung mit einem
@@ -36,41 +71,6 @@ Ich verbinde **Architekturarbeit, praktische Entwicklung und
 verständliche Dokumentation**, um **nachhaltige und wartbare
 Softwaresysteme** zu schaffen.
 
-# Kontakt
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><p><strong>Geburtsdatum</strong></p></td>
-<td style="text-align: left;"><p>16.12.1971</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p><strong>Adresse</strong></p></td>
-<td style="text-align: left;"><p>Deutschland</p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p><strong>Website</strong></p></td>
-<td style="text-align: left;"><p><a
-href="https://dieterbaier.eu">dieterbaier.eu</a></p></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p><strong>Netzwerk</strong></p></td>
-<td style="text-align: left;"><ul>
-<li><p><a
-href="https://www.linkedin.com/in/brdietdidi/">linkedIn</a></p></li>
-<li><p><a href="https://github.com/dieterbaier">GitHub</a></p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-***Für detailierte Informationen, wie Adresse oder persönliche
-E-Mail-Adresse, kontaktieren Sie mich einfach über mein Netzwerk***
-
 <span class="footer">Dieses README wurde aus den Inhalten des
 Repositories [Dieter Baier -
-Profile](https://github.com/dieterbaier/profile) generiert</span>
+Profile](https://github.com/dieterbaier/profile) generiert.</span>
