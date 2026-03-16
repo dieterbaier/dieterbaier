@@ -38,12 +38,35 @@ Softwaresysteme** zu schaffen.
 
 # Kontakt
 
-|                                                                 |                                                                                     |
-|-----------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **![calendar](./assets/icons/calendar.png) Geburtsdatum**       | 16.12.1971                                                                          |
-| **![home](./assets/icons/home.png) Adresse**                    | Deutschland                                                                         |
-| **![globe](./assets/icons/globe.png) Website**                  | [dieterbaier.eu](https://dieterbaier.eu)                                            |
-| **![network wired](./assets/icons/network-wired.png) Netzwerk** | ![linkedin in](./assets/icons/linkedin-in.png) ![github](./assets/icons/github.png) |
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 66%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>Geburtsdatum</strong></p></td>
+<td style="text-align: left;"><p>16.12.1971</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>Adresse</strong></p></td>
+<td style="text-align: left;"><p>Deutschland</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>Website</strong></p></td>
+<td style="text-align: left;"><p><a
+href="https://dieterbaier.eu">dieterbaier.eu</a></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>Netzwerk</strong></p></td>
+<td style="text-align: left;"><ul>
+<li><p><a
+href="https://www.linkedin.com/in/brdietdidi/">linkedIn</a></p></li>
+<li><p><a href="https://github.com/dieterbaier">GitHub</a></p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ***Für detailierte Informationen, wie Adresse oder persönliche
 E-Mail-Adresse, kontaktieren Sie mich einfach über mein Netzwerk***
