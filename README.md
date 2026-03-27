@@ -16,74 +16,30 @@ Heute unterstütze ich Unternehmen bei der Gestaltung und Umsetzung **verteilter
 
 **Seit 2020** unterstütze ich meine Kolleg:Innen beim **Training zum iSAQB Certified Software Architect - Foundation Level**, wann immer ein Trainer gebraucht wird.
 
-Zudem beschäftige ich mich zunehmend mit **Sustainability in der Softwarearchitektur**, insbesondere mit den **Auswirkungen von IT-Systemen auf Energieverbrauch und Umwelt**.
+Zudem beschäftige ich mich zunehmend mit **Nachhaltigkeit in der Softwarearchitektur**, insbesondere mit den **Auswirkungen von IT-Systemen auf Energieverbrauch und Umwelt**.
 
 **Kenntnisse**
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 75%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><p><strong>Dokumentation</strong></p></td>
-<td style="text-align: left;"><ul>
-<li><p>arc42 - Confluence / Notion / docToolchain</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p><strong>Integration</strong></p></td>
-<td style="text-align: left;"><ul>
-<li><p>Apache Kafka</p></li>
-<li><p>Messaging</p></li>
-<li><p>REST / APIs</p></li>
-<li><p>BPM - Camunda</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p><strong>Entwicklung</strong></p></td>
-<td style="text-align: left;"><ul>
-<li><p>Java / Spring Boot</p></li>
-<li><p>React / Typescript</p></li>
-<li><p>REST Services</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p><strong>Software Architektur</strong></p></td>
-<td style="text-align: left;"><ul>
-<li><p>Domain Driven Design</p></li>
-<li><p>Clean Architecture</p></li>
-<li><p>Event Driven Architecture</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p><strong>Methoden</strong></p></td>
-<td style="text-align: left;"><ul>
-<li><p>Agile Collaboration</p></li>
-<li><p>Coaching / Training</p></li>
-<li><p>Doc as Code</p></li>
-<li><p>Clean Code</p></li>
-<li><p>Architektur Kommunikation</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p><strong>Plattform &amp; Auslieferung</strong></p></td>
-<td style="text-align: left;"><ul>
-<li><p>Docker / Kubernetes</p></li>
-<li><p>Helm</p></li>
-<li><p>CI/CD Pipelines (Jenkins / GitLab / GitHub)</p></li>
-<li><p>AWS / Azure</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p><strong>Branchen</strong></p></td>
-<td style="text-align: left;"><ul>
-<li><p>Banken / Versicherungen - Transport - Öffentliche Verwaltung</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+**Dokumentation**  
+arc42 - Confluence / Notion / docToolchain
+
+**Integration**  
+Apache Kafka \| Messaging \| REST / APIs \| BPM - Camunda
+
+**Entwicklung**  
+Java / Spring Boot \| React / Typescript \| REST Services
+
+**Software Architektur**  
+Domain Driven Design \| Clean Architecture \| Event Driven Architecture
+
+**Methoden**  
+Agile Collaboration \| Coaching / Training \| Doc as Code \| Clean Code \| Architektur Kommunikation
+
+**Plattform & Auslieferung**  
+Docker / Kubernetes \| Helm \| CI/CD Pipelines (Jenkins / GitLab / GitHub) \| AWS / Azure
+
+**Branchen**  
+Banken / Versicherungen \| Transport \| Öffentliche Verwaltung
 
 **Arbeitsweise**
 
@@ -99,7 +55,7 @@ Gute Software entsteht im **Dialog zwischen Technik, Fachbereich und Nutzern** �
 
 Ich verbinde **Architekturarbeit, praktische Entwicklung und verständliche Dokumentation**, um **nachhaltige und wartbare Softwaresysteme** zu schaffen.
 
-## Persönliches Engagement
+**Persönliches Engagement**
 
 Aus **persönlichen Gründen** liegt mir das Thema **Inklusion** besonders am Herzen. Ich setze mich für eine Arbeitskultur ein, die Vielfalt fördert und Barrieren abbaut – sowohl im Berufsleben als auch darüber hinaus.
 
@@ -117,9 +73,14 @@ Aus **persönlichen Gründen** liegt mir das Thema **Inklusion** besonders am He
 >
 > —  Kolleg:Innen
 
-## Kontakt
-
 <table>
+<colgroup>
+<col style="width: 66%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><table>
 <colgroup>
 <col style="width: 33%" />
 <col style="width: 66%" />
@@ -141,14 +102,14 @@ Aus **persönlichen Gründen** liegt mir das Thema **Inklusion** besonders am He
 </ul></td>
 </tr>
 </tbody>
+</table></td>
+<td style="text-align: left;"><h3 id="_sprachen">Sprachen</h3>
+<ul>
+<li><p>Deutsch (Muttersprache)</p></li>
+<li><p>English (fluent)</p></li>
+</ul></td>
+</tr>
+</tbody>
 </table>
-
-***Für detailierte Informationen, wie Adresse oder persönliche E-Mail-Adresse, kontaktieren Sie mich einfach über mein Netzwerk***
-
-## Sprachkenntnisse
-
--   Deutsch (Muttersprache)
-
--   English (fluent)
 
 <span class="footer">Dieses README wurde aus den Inhalten des Repositories [Dieter Baier - Profile](https://github.com/dieterbaier/profile) generiert.</span>
