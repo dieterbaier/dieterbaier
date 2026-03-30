@@ -1,10 +1,6 @@
 # Dieter Baier
 
-<div class="informalexample">
-
 **Software Architekt \| Integration, Architektur & Dokumentation**
-
-</div>
 
 **Profil**
 
@@ -59,7 +55,7 @@ Ich verbinde **Architekturarbeit, praktische Entwicklung und verständliche Doku
 
 Aus **persönlichen Gründen** liegt mir das Thema **Inklusion** besonders am Herzen. Ich setze mich für eine Arbeitskultur ein, die Vielfalt fördert und Barrieren abbaut – sowohl im Berufsleben als auch darüber hinaus.
 
-## Was Kolleg:Innen über mich sagen
+**Was Kolleg:Innen über mich sagen**
 
 > „Du bist ein toller Mensch und ich finde es großartig, Dich zu kennen. Du hast ein offenes Ohr und strahlst unglaubliche Ruhe und Gelassenheit aus.“
 >
@@ -103,7 +99,7 @@ Aus **persönlichen Gründen** liegt mir das Thema **Inklusion** besonders am He
 </tr>
 </tbody>
 </table></td>
-<td style="text-align: left;"><h3 id="_sprachen">Sprachen</h3>
+<td style="text-align: left;"><h2 id="_sprachen">Sprachen</h2>
 <ul>
 <li><p>Deutsch (Muttersprache)</p></li>
 <li><p>English (fluent)</p></li>
