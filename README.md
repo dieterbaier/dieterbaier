@@ -95,6 +95,7 @@ Aus **persönlichen Gründen** liegt mir das Thema **Inklusion** besonders am He
 <td style="text-align: left;"><ul>
 <li><p><a href="https://www.linkedin.com/in/brdietdidi/">linkedIn</a></p></li>
 <li><p><a href="https://github.com/dieterbaier">GitHub</a></p></li>
+<li><p><a href="https://gitlab.com/brdietdidi">GitLab</a></p></li>
 </ul></td>
 </tr>
 </tbody>
