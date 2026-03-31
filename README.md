@@ -32,7 +32,7 @@ Domain Driven Design \| Clean Architecture \| Event Driven Architecture
 Agile Collaboration \| Coaching / Training \| Doc as Code \| Clean Code \| Architektur Kommunikation
 
 **Plattform & Auslieferung**  
-Docker / Kubernetes \| Helm \| CI/CD Pipelines (Jenkins / GitLab / GitHub) \| AWS / Azure
+Docker / Kubernetes \| Helm \| {skill_platform_3} \| AWS / Azure
 
 **Branchen**  
 Banken / Versicherungen \| Transport \| Öffentliche Verwaltung
