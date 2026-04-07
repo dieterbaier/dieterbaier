@@ -17,25 +17,25 @@ Zudem beschäftige ich mich zunehmend mit **Nachhaltigkeit in der Softwarearchit
 **Kenntnisse**
 
 **Dokumentation**  
-arc42 - Confluence / Notion / docToolchain
+[arc42 - Confluence / Notion / docToolchain](https://img.shields.io/badge/arc42_Confluence_Notion_docToolchain-green)
 
 **Integration**  
-Apache Kafka \| Messaging \| REST / APIs \| BPM - Camunda
+[Apache Kafka](https://img.shields.io/badge/Apache_Kafka-yellow) \| [Messaging](https://img.shields.io/badge/Messaging-yellow) \| [REST / APIs](https://img.shields.io/badge/REST_APIs-yellow) \| [BPM - Camunda](https://img.shields.io/badge/BPM_Camunda-yellow)
 
 **Entwicklung**  
-Java / Spring Boot \| React / Typescript \| REST Services
+[Java / Spring Boot](https://img.shields.io/badge/Java,_Spring_Boot-orange) \| [React / Typescript](https://img.shields.io/badge/React_Typescript-orange) \| [REST Services](https://img.shields.io/badge/REST_Services-orange)
 
 **Software Architektur**  
-Domain Driven Design \| Clean Architecture \| Event Driven Architecture
+[Domain Driven Design](https://img.shields.io/badge/Domain_Driven_Design-blue) \| [Clean Architecture](https://img.shields.io/badge/Clean_Architecture-blue) \| [Event Driven Architecture](https://img.shields.io/badge/Event_Driven_Architecture-blue)
 
 **Methoden**  
-Agile Collaboration \| Coaching / Training \| Doc as Code \| Clean Code \| Architektur Kommunikation
+[Agile Collaboration](https://img.shields.io/badge/Agile_Collaboration-grey) \| [Coaching / Training](https://img.shields.io/badge/Coaching,_Training-grey) \| [Doc as Code](https://img.shields.io/badge/Doc_as_Code-grey) \| [Clean Code](https://img.shields.io/badge/Clean_Code-grey) \| [Architektur Kommunikation](https://img.shields.io/badge/Architektur_Kommunikation-grey)
 
 **Plattform & Auslieferung**  
-Docker / Kubernetes \| Helm \| {skill_platform_3} \| AWS / Azure
+[Docker / Kubernetes](https://img.shields.io/badge/Docker,_Kubernetes-yellowgreen) \| [Helm](https://img.shields.io/badge/Helm-yellowgreen) \| [CI/CD Pipelines (Jenkins / GitLab / GitHub)](https://img.shields.io/badge/CI_CD,_Pipelines_Jenkins_GitLab_GitHub)-yellowgreen) \| [AWS / Azure](https://img.shields.io/badge/AWS_Azure-yellowgreen)
 
 **Branchen**  
-Banken / Versicherungen \| Transport \| Öffentliche Verwaltung
+[Banken / Versicherungen \| Transport \| Öffentliche Verwaltung](https://img.shields.io/badge/Banken_Versicherungen_Transport_Oeffentliche_Verwaltung-lightgrey)
 
 **Arbeitsweise**
 
