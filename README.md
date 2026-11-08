@@ -42,13 +42,13 @@ Zudem beschäftige ich mich zunehmend mit **Nachhaltigkeit in der Softwarearchit
 
 **Arbeitsweise**
 
--   Verbindung von **Architekturarbeit und praktischer Entwicklung**
+- Verbindung von **Architekturarbeit und praktischer Entwicklung**
 
--   **Pragmatischer Einsatz agiler Methoden**
+- **Pragmatischer Einsatz agiler Methoden**
 
--   **Coaching und Wissensvermittlung** in Entwicklungsteams
+- **Coaching und Wissensvermittlung** in Entwicklungsteams
 
--   **Nachhaltige Architekturdokumentation**
+- **Nachhaltige Architekturdokumentation**
 
 Gute Software entsteht im **Dialog zwischen Technik, Fachbereich und Nutzern** – genau an dieser Schnittstelle sehe ich meine Rolle.
 
@@ -78,22 +78,22 @@ Aus **persönlichen Gründen** liegt mir das Thema **Inklusion** besonders am He
 <col style="width: 33%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><table>
 <colgroup>
 <col style="width: 33%" />
 <col style="width: 66%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><p><strong>Adresse</strong></p></td>
 <td style="text-align: left;"><p>Deutschland</p></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><p><strong>Website</strong></p></td>
 <td style="text-align: left;"><p><a href="https://dieterbaier.eu">dieterbaier.eu</a></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><p><strong>Netzwerk</strong></p></td>
 <td style="text-align: left;"><ul>
 <li><p><a href="https://www.linkedin.com/in/brdietdidi/">linkedIn</a></p></li>
